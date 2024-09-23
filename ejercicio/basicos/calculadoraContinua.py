@@ -50,4 +50,7 @@ while True:
                 n2 = int(input("Ingrese otro numero : "))
                 resultado = resultado / n2
                 print(resultado)
+            else:
+                print("Operacion no valida")
+
     break
