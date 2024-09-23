@@ -1,4 +1,3 @@
-# Las tuplas son listas inmutables, pero se pueden modificar con el metodo .append()
 
 usuarios = [
     ["jose", 2],
